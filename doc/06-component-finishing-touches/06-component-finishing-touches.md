@@ -80,17 +80,17 @@ a quick overview of what you need to do to get the assignment done as follows:
 - [x] I have create another qualitatively different code sample demonstrating a use case of my component
   - [x] I have created a new Java file in `src`
   - [x] I have imported and used my component in this file
-- [ ] I have published my project to an open-source remote repository
-  - [ ] I have ensured that my repository is public
-  - [ ] I know the project url (e.g., https://github.com/TheRenegadeCoder/sample-programs)
+- [x] I have published my project to an open-source remote repository
+  - [x] I have ensured that my repository is public
+  - [x] I know the project url (e.g., https://github.com/TheRenegadeCoder/sample-programs)
 
 ### Submission Tasks
 
-- [ ] I have shared assignment feedback in the "Assignment Feedback" section
-- [ ] I have converted this document to a PDF
-- [ ] I compressed my project to a `.zip` file
-- [ ] I am prepared to submit the PDF, the zip, and the link to the remote repo to Carmen
-- [ ] I am prepared to give my peers feedback on their ideas
+- [x] I have shared assignment feedback in the "Assignment Feedback" section
+- [x] I have converted this document to a PDF
+- [x] I compressed my project to a `.zip` file
+- [x] I am prepared to submit the PDF, the zip, and the link to the remote repo to Carmen
+- [x] I am prepared to give my peers feedback on their ideas
 
 ## Assignment Learning Objectives
 
