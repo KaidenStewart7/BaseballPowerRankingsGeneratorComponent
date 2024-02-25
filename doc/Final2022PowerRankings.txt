@@ -1,0 +1,32 @@
+Baseball Power Rankings: Final 2022 Power Rankings:
+
+1. Los Angeles Dodgers: 0.9811621202040364
+2. Houston Astros: 0.8692267317217417
+3. New York Yankees: 0.8515457972943004
+4. Atlanta Braves: 0.8207400014785244
+5. New York Mets: 0.7881651511791232
+6. St Louis Cardinals: 0.721185037332742
+7. Toronto Blue Jays: 0.7205995416574259
+8. Cleveland Guardians: 0.6849434464404525
+9. Seatle Mariners: 0.6833170695645746
+10. San Diego Padres: 0.6436800473127818
+11. Philadelphia Phillies: 0.6415421009832187
+12. San Francisco Giants: 0.6403267538996082
+13. Tampa Bay Rays: 0.6125600650550751
+14. Milwaukee Brewers: 0.6115561469653286
+15. Minnesota Twins: 0.5650269830708952
+16. Baltimore Orioles: 0.5640193686700673
+17. Chicago White Sox: 0.5456634878391365
+18. Boston Red Sox: 0.534455533377689
+19. Los Angeles Angels: 0.5302491313668958
+20. Chicago Cubs: 0.5148185111258964
+21. Arizona Diamondbacks: 0.5128328528128927
+22. Texas Rangers: 0.4829008649367931
+23. Miami Marlins: 0.4694595993198788
+24. Detroit Tigers: 0.39709174244104384
+25. Colorado Rockies: 0.36126044207880537
+26. Kansas City Royals: 0.35143047238855624
+27. Cincinatti Reds: 0.34424853995712285
+28. Pittsburgh Pirates: 0.3212545279810749
+29. Oakland Athletics: 0.31910771050491604
+30. Washington Nationals: 0.24074074074074076

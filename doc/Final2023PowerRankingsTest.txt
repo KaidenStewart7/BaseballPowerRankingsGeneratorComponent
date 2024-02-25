@@ -1,0 +1,32 @@
+Baseball Power Rankings: Final 2023 Power Rankings:
+
+1. Atlanta Braves: 1.2615151515151515
+2. Los Angeles Dodgers: 1.2055315055315057
+3. Tampa Bay Rays: 1.1924162257495592
+4. Texas Rangers: 1.1185169151835819
+5. Baltimore Orioles: 1.1128747795414462
+6. Houston Astros: 1.0717636684303349
+7. Minnesota Twins: 1.0554433221099888
+8. San Diego Padres: 1.0362097162097164
+9. Philadelphia Phillies: 1.0235000801667467
+10. Milwaukee Brewers: 1.0172037838704504
+11. Seatle Mariners: 1.0066297899631231
+12. Chicago Cubs: 0.9889065255731923
+13. Toronto Blue Jays: 0.985707872374539
+14. Boston Red Sox: 0.9039746673080007
+15. New York Yankees: 0.8542328042328042
+16. Arizona Diamondbacks: 0.8478371011704344
+17. New York Mets: 0.8264245630912298
+18. Miami Marlins: 0.8057607824274491
+19. Cincinatti Reds: 0.8017941317941318
+20. Cleveland Guardians: 0.7914927048260381
+21. San Francisco Giants: 0.7834439634439634
+22. Detroit Tigers: 0.7705226871893538
+23. Pittsburgh Pirates: 0.7253535353535353
+24. Los Angeles Angels: 0.7148789482122815
+25. St Louis Cardinals: 0.6843370210036877
+26. Washington Nationals: 0.6413516113516113
+27. Kansas City Royals: 0.5575565175565176
+28. Chicago White Sox: 0.5209106942440276
+29. Colorado Rockies: 0.47366362033028697
+30. Oakland Athletics: 0.2425925925925926

@@ -1,0 +1,32 @@
+Baseball Power Rankings: Final 2021 Power Rankings:
+
+1. Los Angeles Dodgers: 1.1000559864496555
+2. San Francisco Giants: 1.027343149697166
+3. Tampa Bay Rays: 0.9923245674422874
+4. Toronto Blue Jays: 0.9288962320436918
+5. Atlanta Braves: 0.9285047597473941
+6. Houston Astros: 0.9279994492633898
+7. Chicago White Sox: 0.9157148102253431
+8. Milwaukee Brewers: 0.8420721464959383
+9. Boston Red Sox: 0.8071127633209417
+10. New York Yankees: 0.784733581164808
+11. St Louis Cardinals: 0.7663054752398
+12. Oakland Athletics: 0.7494827665335719
+13. Cincinatti Reds: 0.7157786038826931
+14. Seatle Mariners: 0.6724975905273303
+15. San Diego Padres: 0.6701427274657646
+16. Cleveland Guardians: 0.6660002753683051
+17. Philadelphia Phillies: 0.6588934880047718
+18. New York Mets: 0.6200413148898971
+19. Detroit Tigers: 0.5820941759603468
+20. Colorado Rockies: 0.5791403839845676
+21. Los Angeles Angels: 0.5789168846665749
+22. Minnesota Twins: 0.5484473817063655
+23. Kansas City Royals: 0.5448795263665152
+24. Miami Marlins: 0.5278760021173973
+25. Washington Nationals: 0.49162881316884527
+26. Chicago Cubs: 0.4903029051356189
+27. Texas Rangers: 0.40488641057414293
+28. Pittsburgh Pirates: 0.35906696039285874
+29. Arizona Diamondbacks: 0.3447276097458142
+30. Baltimore Orioles: 0.25320987654320987

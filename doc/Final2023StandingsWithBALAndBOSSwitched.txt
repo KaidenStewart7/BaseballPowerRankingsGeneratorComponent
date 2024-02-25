@@ -1,0 +1,270 @@
+Boston Red Sox
+99
+63
+449
+361
+3
+7
+-4
+
+Baltimore Orioles
+101
+61
+449
+361
+6
+4
+129
+
+New York Yankees
+82
+80
+449
+361
+6
+4
+-25
+
+Tampa Bay Rays
+99
+63
+449
+361
+6
+4
+195
+
+Toronto Blue Jays
+89
+73
+449
+361
+4
+6
+75
+
+Chicago White Sox
+61
+101
+358
+452
+3
+7
+-200
+
+Cleveland Guardians
+76
+86
+358
+452
+4
+6
+-35
+
+Detroit Tigers
+78
+84
+358
+452
+7
+3
+-79
+
+Kansas City Royals
+56
+106
+358
+452
+6
+4
+-183
+
+Minnesota Twins
+87
+75
+358
+452
+7
+3
+119
+
+Houston Astros
+90
+72
+391
+419
+6
+4
+129
+
+Los Angeles Angels
+73
+89
+391
+419
+4
+6
+-90
+
+Oakland Athletics
+50
+112
+391
+419
+4
+6
+-399
+
+Seatle Mariners
+88
+74
+391
+419
+4
+6
+99
+
+Texas Rangers
+90
+72
+391
+419
+6
+4
+165
+
+Atlanta Braves
+104
+58
+424
+386
+7
+3
+231
+
+Miami Marlins
+84
+78
+424
+386
+5
+5
+-57
+
+New York Mets
+75
+87
+424
+386
+4
+6
+-12
+
+Philadelphia Phillies
+90
+72
+424
+386
+7
+3
+81
+
+Washington Nationals
+71
+91
+424
+386
+4
+6
+-145
+
+Chicago Cubs
+83
+79
+404
+406
+4
+6
+96
+
+Cincinatti Reds
+82
+80
+404
+406
+3
+7
+-38
+
+Milwaukee Brewers
+92
+70
+404
+406
+6
+4
+81
+
+St Louis Cardinals
+71
+91
+404
+406
+4
+6
+-110
+
+Pittsburgh Pirates
+76
+86
+404
+406
+5
+5
+-98
+
+Arizona Diamondbacks
+84
+78
+404
+406
+4
+6
+-15
+
+Colorado Rockies
+59
+103
+404
+406
+3
+7
+-236
+
+Los Angeles Dodgers
+100
+62
+404
+406
+6
+4
+207
+
+San Diego Padres
+82
+80
+404
+406
+8
+2
+104
+
+San Francisco Giants
+79
+83
+404
+406
+3
+7
+-45
+
