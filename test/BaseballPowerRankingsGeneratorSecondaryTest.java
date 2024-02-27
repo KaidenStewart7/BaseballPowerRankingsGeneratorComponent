@@ -52,6 +52,7 @@ public class BaseballPowerRankingsGeneratorSecondaryTest {
         String result = b.getTeamName(29);
 
         // Checks the result
+        assertEquals("San Francisco Giants", result);
         assertEquals(bExpected, b);
     }
 
